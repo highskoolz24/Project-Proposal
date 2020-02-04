@@ -2,7 +2,6 @@
 Midpoint
 
 # What and why?
-What software system would you like to build this semester, and why? Include a description of what problem the system would solve and why this is important.
 Goal: Provide users an easy way to find the midpoint location for meeting up with friends
 , or find equidistant location for users to set location on Uber/Lyft to walk the same distance back home. 
 
