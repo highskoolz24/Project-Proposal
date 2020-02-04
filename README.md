@@ -11,4 +11,4 @@ where to meet that is the midpoint from their homes. In some people's experience
 zoom into Google Maps to estimate where they could meet. Or, if two people are leaving from the same area and want
 to save on Uber, they can carpool together to a location that is halfway between their homes so that their walk home
 equal (I have been in this situation before.) A user on Midpoint can enter two locations, and choose within an appropriate
-radius (can be set by user) a set of the locations that they would like to meet at/be dropped off at 
+radius (can be set by user) a set of the locations that they would like to meet at/be dropped off at.
